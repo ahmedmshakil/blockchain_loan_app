@@ -1,0 +1,16 @@
+# App Icon Placeholder
+
+This is a placeholder for the app icon. In a real implementation, you would:
+
+1. Create a 1024x1024 PNG icon with the banking theme
+2. Use the bank's logo with blockchain elements
+3. Include the Midnight Bank branding colors (primary blue)
+4. Add subtle blockchain/link iconography
+
+The icon should represent:
+- Banking/Financial services (building, coins, etc.)
+- Blockchain technology (chain links, blocks)
+- Security and trust (shield, checkmark)
+- Modern and professional appearance
+
+For now, the app will use the default Flutter icon until a proper icon is designed.
